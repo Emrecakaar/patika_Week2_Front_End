@@ -1,0 +1,64 @@
+.container {
+    width: 25%;
+    height: 25%;
+    padding: 5%;
+    margin: 0 auto;
+    background-color:darkviolet;
+    border-radius: 10px;
+    justify-content: center; 
+    align-items: center;
+    display: flex;
+}
+
+.box {
+    margin-right: 500px;
+    border-radius: 10px;
+    padding: 5px;
+    float: left;
+    background-color:cadetblue;
+}
+
+.b-yellow {
+color: yellow;
+}
+
+.b-green {
+    color: green;
+}
+
+.b-white {
+    color: white;
+}
+
+.b-orange {
+    color: deeppink;
+}
+
+.head {
+    top: 50%;
+    left: 50%;
+    margin:auto 1200px auto auto;
+    border-radius: 5px;
+    padding: 10px;
+    background-color:cadetblue;
+    z-index: 1;
+}
+
+.image {
+    width: 250px;
+    height: 250px;
+    float:unset;
+    position: relative;
+}
+
+body {
+    background-image: url('https://img.pixers.pics/pho_wat(s3:700/FO/55/26/74/93/700_FO55267493_7e2a304f8b94f69e95ef7c9eea6e8bc7.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/cikartmalar-muzik-notasi.jpg.jpg');
+}
+
+.btn {
+    padding: 10px 20px;
+    border-radius: 25px;
+    color: white;
+    text-decoration: none;
+    box-shadow: 2px 2px 15px 7px rgba(0,0, 0, 0.3);
+}
